@@ -47,5 +47,6 @@ string text = "Sreeram"
 end type
 
 event clicked;MessageBox("Title", "HI I am Sreeram.")
+MessageBox("Title", "HI I am 2.")
 end event
 
