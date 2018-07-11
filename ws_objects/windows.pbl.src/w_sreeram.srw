@@ -49,7 +49,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "Test"
+string text = "Test_App"
 end type
 
 type cb_1 from commandbutton within w_sreeram
