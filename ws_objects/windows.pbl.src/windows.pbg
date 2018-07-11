@@ -3,5 +3,6 @@
  "windows.pbl" "";
 @end;
 @begin Objects 
+ "w_main.srw" "windows.pbl";
  "w_sreeram.srw" "windows.pbl";
 @end;
