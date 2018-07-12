@@ -52,6 +52,9 @@ string facename = "Tahoma"
 string text = "Test_App"
 end type
 
+event clicked;Messagebox('','Checking Latest File')
+end event
+
 type cb_1 from commandbutton within w_sreeram
 integer x = 1019
 integer y = 612
@@ -69,6 +72,6 @@ end type
 
 event clicked;MessageBox("Title", "HI I am Sreeram.")
 MessageBox("Title", "HI I am 2.")
-MessageBox("Title", "HI I am Bala.")
+MessageBox("Title", "HI I am Mohammud.")
 end event
 
