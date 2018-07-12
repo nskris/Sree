@@ -69,6 +69,6 @@ end type
 
 event clicked;MessageBox("Title", "HI I am Sreeram.")
 MessageBox("Title", "HI I am 2.")
-MessageBox("Title", "HI I am Mohammud.")
+MessageBox("Title", "HI I am Bala.")
 end event
 
