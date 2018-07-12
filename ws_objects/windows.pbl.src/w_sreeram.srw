@@ -52,7 +52,7 @@ string facename = "Tahoma"
 string text = "Test_App"
 end type
 
-event clicked;Messagebox('','Checking Latest File')
+event clicked;
 end event
 
 type cb_1 from commandbutton within w_sreeram
